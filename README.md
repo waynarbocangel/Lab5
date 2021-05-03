@@ -5,7 +5,7 @@ Waynar Bocangel Calderon
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://waynarbocangel.github.io/Lab5/
 
 ## Part 2:
 
