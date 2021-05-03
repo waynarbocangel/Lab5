@@ -1,7 +1,7 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+Waynar Bocangel Calderon
 
 ## Part 1:
 
